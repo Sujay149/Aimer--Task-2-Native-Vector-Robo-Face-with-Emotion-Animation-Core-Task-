@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.roboface.app-merged_res-40:/xml_backup_rules.xml.flat",
+        "source": "com.example.roboface.app-main-42:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.roboface.app-merged_res-40:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.roboface.app-main-42:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.roboface.app-merged_res-40:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.roboface.app-main-42:/xml/data_extraction_rules.xml"
+    }
+]
